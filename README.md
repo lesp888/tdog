@@ -1,2 +1,2 @@
 # BTCT USDG Tdog Fully Decentralized Token
-Welcome to Tdog Token ! https://tdogtoken.github.io/tdog
+Welcome to BTCT USDG Tdog Token ! https://tdogtoken.github.io/tdog
